@@ -1,1 +1,4 @@
 gdm3 ubuntu-session
+xorg-docs-core
+xserver-xorg
+xserver-xorg-video-fbdev
