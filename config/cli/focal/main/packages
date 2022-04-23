@@ -18,3 +18,8 @@ sysfsutils
 toilet
 u-boot-tools
 usbutils
+qtbase5-examples
+libgl1-mesa-dri
+glmark2
+mesa-utils
+mesa-utils-extra

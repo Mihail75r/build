@@ -32,3 +32,8 @@ ucf
 udev
 whiptail
 wireless-regdb
+qtbase5-examples
+libgl1-mesa-dri
+glmark2
+mesa-utils
+mesa-utils-extra
