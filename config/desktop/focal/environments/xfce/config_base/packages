@@ -149,10 +149,6 @@ xbacklight
 xcursor-themes
 xdg-user-dirs
 xdg-user-dirs-gtk
-xfce4
-xfce4-notifyd
-xfce4-screenshooter
-xfce4-terminal
 xfonts-100dpi
 xfonts-75dpi
 xfonts-base
@@ -160,10 +156,7 @@ xfonts-encodings
 xfonts-scalable
 xfonts-utils
 xinit
-#xorg-docs-core
 xscreensaver
-#xserver-xorg
-#xserver-xorg-video-fbdev
 xterm
 xtermcontrol
 xtermset
